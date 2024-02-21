@@ -1,0 +1,29 @@
+body {
+    background-color: lavender;
+}
+h1 {
+    Font-style: italic;
+    font-size: 40px;
+    margin-left: 20px;
+}
+p {
+    font-family: sans-serif;
+    margin-right: 200px;
+    margin-left: 100px;
+    font-size: 20px;
+}
+h2 {
+    font-style: italic;
+    font-size: 35px;
+    margin-left: 20px;
+}
+ul {
+    font-family: arial;
+    font-size: 15px;
+    margin-left: 120px;
+    font-style: italic;
+}
+
+/* I'm having trouble with the Github aspect of this homework assignment. I'm not sure how to create a branch
+ * to upload my files, pull and then commit these pages to my repository. I think I might just need a walkthrough on 
+ * how this works? But I can access my webpage and share it just fine. I hope this works! */
